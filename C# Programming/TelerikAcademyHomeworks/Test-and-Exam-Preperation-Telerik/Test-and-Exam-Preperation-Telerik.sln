@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ship-Damage", "Ship-Damage\Ship-Damage.csproj", "{30AA6076-4A81-4AB3-A892-3A56A8A15EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tribonacci-sequence", "Tribonacci-sequence\Tribonacci-sequence.csproj", "{D02004BB-8D24-48E5-94BA-FD38782FB321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fir-Tree", "Fir-Tree\Fir-Tree.csproj", "{267D18EE-8F41-4BE4-B746-4B8FE045DC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30AA6076-4A81-4AB3-A892-3A56A8A15EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AA6076-4A81-4AB3-A892-3A56A8A15EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AA6076-4A81-4AB3-A892-3A56A8A15EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AA6076-4A81-4AB3-A892-3A56A8A15EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02004BB-8D24-48E5-94BA-FD38782FB321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02004BB-8D24-48E5-94BA-FD38782FB321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02004BB-8D24-48E5-94BA-FD38782FB321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02004BB-8D24-48E5-94BA-FD38782FB321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267D18EE-8F41-4BE4-B746-4B8FE045DC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267D18EE-8F41-4BE4-B746-4B8FE045DC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267D18EE-8F41-4BE4-B746-4B8FE045DC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267D18EE-8F41-4BE4-B746-4B8FE045DC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
