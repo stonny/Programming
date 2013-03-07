@@ -1,0 +1,5 @@
+Point with Coordinates [-5,4,0]
+Point with Coordinates [3,6,8]
+Point with Coordinates [3,6,8]
+Point with Coordinates [3,6,8]
+Point with Coordinates [-5,4,0]
